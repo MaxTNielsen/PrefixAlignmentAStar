@@ -1,2 +1,3 @@
-OnlineConformance/input/**
+OnlineConformance/input/trie stream
+OnlineConformance/input/
 OnlineConformance/output/
