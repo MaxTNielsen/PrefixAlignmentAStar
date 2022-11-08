@@ -1,4 +1,2 @@
-/OnlineConformance/input/**
-/OnlineConformance/output/**
-/OnlineConformance/input
-/OnlineConformance/output
+OnlineConformance/input/
+OnlineConformance/output/
