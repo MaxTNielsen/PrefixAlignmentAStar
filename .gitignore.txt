@@ -1,2 +1,2 @@
-OnlineConformance/input/
+OnlineConformance/input/**
 OnlineConformance/output/
