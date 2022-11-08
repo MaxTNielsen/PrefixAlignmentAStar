@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="AcceptingPetriNet">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/AcceptingPetriNet.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/AcceptingPetriNet.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/AcceptingPetriNet.jar!/" />
+    </SOURCES>
+  </library>
+</component>

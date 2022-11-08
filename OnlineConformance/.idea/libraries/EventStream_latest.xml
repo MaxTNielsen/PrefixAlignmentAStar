@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="EventStream-latest">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/EventStream-latest.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/EventStream-latest.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/EventStream-latest.jar!/" />
+    </SOURCES>
+  </library>
+</component>

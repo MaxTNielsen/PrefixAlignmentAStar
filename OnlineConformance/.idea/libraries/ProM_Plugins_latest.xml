@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="ProM-Plugins-latest">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/ProM-Plugins-latest.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/ProM-Plugins-latest.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/ProM-Plugins-latest.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="ProM-Framework-6.10.110">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/ProM-Framework-6.10.110.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/ProM-Framework-6.10.110.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/ProM-Framework-6.10.110.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Stream">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/Stream.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/Stream.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/Stream.jar!/" />
+    </SOURCES>
+  </library>
+</component>

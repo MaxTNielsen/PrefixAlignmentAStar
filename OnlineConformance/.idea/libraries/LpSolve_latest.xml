@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="LpSolve-latest">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/LpSolve-latest.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/LpSolve-latest.jar!/" />
+    </SOURCES>
+  </library>
+</component>

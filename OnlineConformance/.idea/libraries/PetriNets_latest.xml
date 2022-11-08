@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="PetriNets-latest">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/PetriNets-latest.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/PetriNets-latest.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/PetriNets-latest.jar!/" />
+    </SOURCES>
+  </library>
+</component>
